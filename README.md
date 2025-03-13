@@ -3,7 +3,7 @@
 Sou estudante de Sistemas de Informação na UFLA, com habilidades em C++, Java e SQL. Estou buscando oportunidades de estágio para aplicar meus conhecimentos e contribuir para o crescimento da empresa.
 
 ## Habilidades
-- **Linguagens**: C++, Java, SQL
+- **Linguagens**: C++, Java, SQL, Python
 - **Ferramentas**: Git, MySQL
 <!--
 ## Projetos
