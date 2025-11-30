@@ -12,11 +12,10 @@ Sou estudante de **Sistemas de Informação** na UFLA. Possuo habilidades em **C
   
 ---
 
-## 📈 Estatísticas do GitHub
+## 🧠 Linguagens que eu mais uso
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guilherme-Resende-Mendes&theme=radical" alt="GitHub Streak do Guilherme Resende" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guilherme-Resende-Mendes&theme=radical&hide_border=true" alt="Estatísticas de Streak do GitHub" />
 </p>
-
 ---
 
 ## 🤝 Conecte-se Comigo
