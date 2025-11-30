@@ -1,21 +1,19 @@
-# Olá, eu sou o Guilherme Resende 👋
+# Olá, eu sou Guilherme Resende Mendes da Silva 👋
 
-Sou estudante de **Sistemas de Informação** na UFLA. Possuo habilidades em **C++**, **Java**, **SQL** e estou buscando oportunidades de estágio para aplicar meus conhecimentos e contribuir para o crescimento da empresa.
+Estudante de **Sistemas de Informação** na UFLA (2023-2026), atuando como **Analista de Dados** e focado em engenharia e automação de fluxos de dados.
+
+Minha experiência envolve desenvolver soluções que transformam dados brutos em inteligência para modelos de **Inteligência Artificial**. Busco oportunidades de estágio para contribuir com meu conhecimento técnico e crescimento da empresa.
 
 ---
 
-## 💻 Habilidades Principais
+## 💻 Toolkit e Habilidades Técnicas
 | Categoria | Habilidades |
 | :--- | :--- |
-| **Linguagens** | C++, Java, SQL, Python |
-| **Ferramentas/BD** | Git, MySQL |
-  
----
+| **Linguagens Core** | **Python** (Pandas), **SQL** |
+| **Engenharia de Dados** | **Data Engineering** (Pipelines), **AWS** |
+| **Conceitos/IA** | **Inteligência Artificial**, Modelagem de Dados, Contabilidade |
+| **Outras** | C++, Java, Git, Project Management, Teamwork |
 
-## 🧠 Linguagens que eu mais uso
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guilherme-Resende-Mendes&theme=radical&hide_border=true" alt="Estatísticas de Streak do GitHub" />
-</p>
 ---
 
 ## 🤝 Conecte-se Comigo
