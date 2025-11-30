@@ -1,18 +1,23 @@
 # Olá, eu sou o Guilherme Resende 👋
 
-Sou estudante de Sistemas de Informação na UFLA, com habilidades em C++, Java e SQL. Estou buscando oportunidades de estágio para aplicar meus conhecimentos e contribuir para o crescimento da empresa.
+Sou estudante de **Sistemas de Informação** na UFLA. Possuo habilidades em **C++**, **Java**, **SQL** e estou buscando oportunidades de estágio para aplicar meus conhecimentos e contribuir para o crescimento da empresa.
 
-## Habilidades
-- **Linguagens**: C++, Java, SQL, Python
-- **Ferramentas**: Git, MySQL
-<!--
-## Projetos
-- [Projeto 1](https://github.com/Guilherme-Resende-Mendes/projeto1): Um sistema de gerenciamento de banco de dados.
-- [Projeto 2](https://github.com/Guilherme-Resende-Mendes/projeto2): Um aplicativo Java para automação de tarefas.
--->
-## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Guilherme-Resende-Mendes&show_icons=true&theme=radical)
+---
 
-## Conecte-se Comigo
-- [LinkedIn](https://www.linkedin.com/in/guilherme-resende-mendes-99a074203/)
+## 💻 Habilidades Principais
+| Categoria | Habilidades |
+| :--- | :--- |
+| **Linguagens** | C++, Java, SQL, Python |
+| **Ferramentas/BD** | Git, MySQL |
+  
+---
 
+## 📈 Estatísticas do GitHub
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guilherme-Resende-Mendes&theme=radical" alt="GitHub Streak do Guilherme Resende" />
+</p>
+
+---
+
+## 🤝 Conecte-se Comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-resende-mendes-99a074203/)
